@@ -1,0 +1,14 @@
+*.egg-info
+.coverage
+.ipynb_checkpoints
+.DS_Store
+certs/
+*.csv
+**/__pycache__/
+.env
+*.json
+*.xlsx
+research/
+*.pkl
+mlruns/
+models/
